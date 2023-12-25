@@ -1,3 +1,3 @@
 - نریمان فلاحی برنامه نویسی وب فرانت اند.
-- اهل کشور ایران.
-- مهارت های من : Html, Css, Js, React, Next-Js, Tailwind, Bootstrap
+- اهل کشور ایران / کردستان.
+- مهارت های من : Html, Css, Js, React, Next-Js, Tailwind, Bootstrap 
