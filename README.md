@@ -6,7 +6,7 @@
 
 ## <img width="30" align="center" src="./icons/Skills.png"> My skills
 
-- `Html` `Css` `Js` `React` `Next` `js` `React native (expo)`
+- `Html` `Css` `Js` `React` `Next.js` `React native (expo)`
 
 - `sass` `Tailwind` `Bootstrap`
 
