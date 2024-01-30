@@ -1,16 +1,19 @@
-### Hi there 👋
+## <img width="30" align="center" src="./icons/About.png"> About Me
 
-<!--
-**Nariman-Fallahi/Nariman-Fallahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Hello, I am Nariman Falahi, a front-end web developer. I live in Kurdistan province, Iran. I love programming and I am doing my best to succeed in this field.
+</p>
 
-Here are some ideas to get you started:
+## <img width="30" align="center" src="./icons/Skills.png"> My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `Html` `Css` `Js` `React` `Next` `js` `React native (expo)`
+
+- `sass` `Tailwind` `Bootstrap`
+
+- <img width="30" align="center" src="./icons/Html.png"> <img width="30" align="center" src="./icons/Css.png"> <img width="30" align="center" src="./icons/Js.png"> <img width="30" align="center" src="./icons/React.png"> <img width="30" align="center" src="./icons/NextJs.png"> <img width="30" align="center" src="./icons/Expo.png"> <img width="30" align="center" src="./icons/Sass.png"> <img width="30" align="center" src="./icons/Tailwind.png"> <img width="30" align="center" src="./icons/Bootstrap.png">
+
+## <img width="30" align="center" src="./icons/Contact.png"> Contact Me
+
+- <img width="20" align="center" src="./icons/internet.png"> WebSite : https://NarimanFallahi.ir
+- <img width="20" align="center" src="./icons/gmail.png"> Gmail : Fallahi.nf@gmail.com
+- <img width="20" align="center" src="./icons/telegram.png"> Telegram : https://t.me/NarimanFallahi
