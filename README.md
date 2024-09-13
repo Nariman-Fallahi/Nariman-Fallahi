@@ -29,8 +29,8 @@
 
 <img width="30" align="center" src="./icons/git.png"> `Git`
 <img width="30" align="center" src="./icons/axios.png"> `Axios`
-<img width="50" align="center" src="./icons/webpack.png"> `Webpack`
-<img width="20" align="center" src="./icons/react-query.png"> `ReactQuery`
+<img width="30" align="center" src="./icons/Webpack.png"> `Webpack`
+<img width="20" align="center" src="./icons/react-query.ico"> `ReactQuery`
 
 <img width="28" align="center" src="./icons/linux.png"> `Linux`
 
