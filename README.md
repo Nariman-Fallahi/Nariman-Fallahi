@@ -1,29 +1,76 @@
-## <img width="30" align="center" src="./icons/About.png"> About Me
+<div align="center">
+  <h2>
+    <img width="50" align="center" src="./icons/about.png"> About Me
+  </h2>
+  <p>
+    Hello, I am Nariman Falahi, a front-end web developer. I live in Kurdistan province, Iran. I love programming and I am doing my best to succeed in this field.
+  </p>
+</div>
 
-<p align="center">
-  Hello, I am Nariman Falahi, a front-end web developer. I live in Kurdistan province, Iran. I love programming and I am doing my best to succeed in this field.
-</p>
+<div align="center">
+  <h2>
+    <img width="50" align="center" src="./icons/skills.png"> My Skills
+  </h2>
 
-## <img width="30" align="center" src="./icons/Skills.png"> My skills
+<img width="30" align="center" src="./icons/Html.png"> `Html`
+<img width="30" align="center" src="./icons/Css.png"> `Css`
+<img width="30" align="center" src="./icons/Js.png"> `Js`
+<img width="25" align="center" src="./icons/Typescript.svg"> `Ts`
+<img width="25" align="center" src="./icons/dart.svg"> `Dart`
+<img width="25" align="center" src="./icons/React.png"> `React`
+<img width="30" align="center" src="./icons/NextJs.png"> `NextJs`
+<img width="30" align="center" src="./icons/science.png"> `React Native`
 
-- `Html` `Css` `Js` `React` `Next.js` `React Native`
+<img width="30" align="center" src="./icons/Tailwind.png"> `Tailwind`
+<img width="30" align="center" src="./icons/Sass.png"> `Sass`
+<img width="30" align="center" src="./icons/Bootstrap.png"> `Bootstrap`
+<img width="30" align="center" src="./icons/MUI.png"> `MUI`
+<img width="30" align="center" src="./icons/NextUI.png"> `NextUI`
 
-- `sass` `Tailwind` `Bootstrap` `MUI` `NextUI`
+<img width="30" align="center" src="./icons/git.png"> `Git`
+<img width="30" align="center" src="./icons/axios.png"> `Axios`
+<img width="50" align="center" src="./icons/webpack.png"> `Webpack`
+<img width="20" align="center" src="./icons/react-query.png"> `ReactQuery`
 
-- `Git` `Axios` `Webpack` `Formik` `Redux Toolkit` `Zustand`
+<img width="28" align="center" src="./icons/linux.png"> `Linux`
 
-- <img width="30" align="center" src="./icons/Html.png"> <img width="30" align="center" src="./icons/Css.png"> <img width="30" align="center" src="./icons/Js.png"> <img width="30" align="center" src="./icons/React.png"> <img width="30" align="center" src="./icons/NextJs.png"> <img width="30" align="center" src="./icons/science.png"> <img width="30" align="center" src="./icons/Sass.png"> <img width="30" align="center" src="./icons/Tailwind.png"> <img width="30" align="center" src="./icons/Bootstrap.png"> <img width="30" align="center" src="./icons/MUI.png"> <img width="30" align="center" src="./icons/NextUI.png"> <img width="30" align="center" src="./icons/git.png"> <img width="30" align="center" src="./icons/axios.png"> <img width="30" align="center" src="./icons/webpack.png"> <img width="30" align="center" src="./icons/formik.png"> <img width="30" align="center" src="./icons/redux.png"> <img width="30" align="center" src="./icons/zustand.png">
+</div>
 
-## <img width="30" align="center" src="./icons/Contact.png"> Contact Me
+<div align="center">
+  <h2>
+    <img width="50" align="center" src="./icons/contact.png"> Contact Me
+  </h2>
 
-- <img width="20" align="center" src="./icons/internet.png"> WebSite : https://NarimanFallahi.ir
-- <img width="20" align="center" src="./icons/gmail.png"> Gmail : NarimanFallahi.ir@gmail.com
-- <img width="20" align="center" src="./icons/telegram.png"> Telegram : https://t.me/NarimanFallahi
+  <p>
+    <img width="20" align="center" src="./icons/internet.png">
+     <a href="https://NarimanFallahi.ir">NarimanFallahi.ir</a>
+  </p>
 
-## My GitHub Statistics
+  <p>
+    <img width="20" align="center" src="./icons/gmail.png">
+    <a href="mailto:NarimanFallahi.ir@gmail.com">NarimanFallahi.ir@gmail.com</a>
+  </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nariman-fallahi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  <p>
+    <img width="20" align="center" src="./icons/telegram.png">
+     <a href="https://t.me/NarimanFallahi">https://t.me/NarimanFallahi</a>
+  </p>
+</div>
 
-## Longest Contribution Streaks
+<div align="center">
+  <h2>
+    <img width="50" align="center" src="./icons/statistics.png"> My GitHub Statistics
+  </h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nariman-Fallahi&theme=react)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=nariman-fallahi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+</div>
+
+<div align="center">
+  <h2>
+    <img width="50" align="center" src="./icons/chart.png"> Longest Contribution Streaks
+  </h2>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Nariman-Fallahi&theme=react" alt="GitHub Streak"/>
+  </a>
+</div>
