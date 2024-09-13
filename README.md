@@ -43,17 +43,17 @@
 
   <p>
     <img width="20" align="center" src="./icons/internet.png">
-     <a href="https://NarimanFallahi.ir">NarimanFallahi.ir</a>
+     <a target="_blank" rel="noopener noreferrer" href="https://NarimanFallahi.ir">NarimanFallahi.ir</a>
   </p>
 
   <p>
     <img width="20" align="center" src="./icons/gmail.png">
-    <a href="mailto:NarimanFallahi.ir@gmail.com">NarimanFallahi.ir@gmail.com</a>
+    <a target="_blank" rel="noopener noreferrer" href="mailto:NarimanFallahi.ir@gmail.com">NarimanFallahi.ir@gmail.com</a>
   </p>
 
   <p>
     <img width="20" align="center" src="./icons/telegram.png">
-     <a href="https://t.me/NarimanFallahi">https://t.me/NarimanFallahi</a>
+     <a target="_blank" rel="noopener noreferrer" href="https://t.me/NarimanFallahi">https://t.me/NarimanFallahi</a>
   </p>
 </div>
 
