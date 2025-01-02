@@ -2,49 +2,45 @@
   <h2>
     <img width="50" align="center" src="./icons/about.png"> About Me
   </h2>
-  <p>
-    Hello, I am Nariman Falahi, a front-end web developer. I live in Kurdistan province, Iran. I love programming and I am doing my best to succeed in this field.
-  </p>
 </div>
+  <p>
+   Love programming and always working to get better !
+  </p>
 
 <div align="center">
   <h2>
     <img width="50" align="center" src="./icons/skills.png"> My Skills
   </h2>
-
-<img width="30" align="center" src="./icons/Html.png"> `Html`
-<img width="30" align="center" src="./icons/Css.png"> `Css`
-<img width="30" align="center" src="./icons/Js.png"> `Js`
-<img width="25" align="center" src="./icons/Typescript.svg"> `Ts`
-<img width="25" align="center" src="./icons/dart.svg"> `Dart`
-<img width="25" align="center" src="./icons/React.png"> `React`
-<img width="30" align="center" src="./icons/NextJs.png"> `NextJs`
-<img width="30" align="center" src="./icons/science.png"> `React Native`
-
-<img width="30" align="center" src="./icons/Tailwind.png"> `Tailwind`
-<img width="30" align="center" src="./icons/Sass.png"> `Sass`
-<img width="30" align="center" src="./icons/Bootstrap.png"> `Bootstrap`
-<img width="30" align="center" src="./icons/MUI.png"> `MUI`
-<img width="30" align="center" src="./icons/NextUI.png"> `NextUI`
-
-<img width="30" align="center" src="./icons/git.png"> `Git`
-<img width="30" align="center" src="./icons/axios.png"> `Axios`
-<img width="33" align="center" src="./icons/Webpack.png"> `Webpack`
-<img width="25" align="center" src="./icons/react-query.ico"> `ReactQuery`
-
-<img width="28" align="center" src="./icons/linux.png"> `Linux`
-
 </div>
+
+<h3>Programming Languages</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,dart&theme=light&perline=15)](https://skillicons.dev)
+
+<h3>Frontend Technologies</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,remix,tailwindcss,bootstrap,sass,materialui&theme=dark&perline=15)](https://skillicons.dev)
+
+<h3>Backend Technologies</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs&theme=dark&perline=15)](https://skillicons.dev)
+
+<h3>Database</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis&theme=dark&perline=15)](https://skillicons.dev)
+
+<h3>Mobile technologies</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=react,&theme=dark&perline=15)](https://skillicons.dev)
+
+<h3>Other technologies</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,webpack,vite,redux,markdown,linux&theme=dark&perline=15)](https://skillicons.dev)
 
 <div align="center">
   <h2>
     <img width="50" align="center" src="./icons/contact.png"> Contact Me
   </h2>
-
-  <p>
-    <img width="20" align="center" src="./icons/internet.png">
-     <a href="https://NarimanFallahi.ir">NarimanFallahi.ir</a>
-  </p>
 
   <p>
     <img width="20" align="center" src="./icons/gmail.png">
@@ -73,4 +69,13 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Nariman-Fallahi&theme=react" alt="GitHub Streak"/>
   </a>
+</div>
+
+<div align="center">
+  <h2>
+    <img width="50" align="center" src="./icons/chart_2.png"> Most Used Languages
+  </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nariman-fallahi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
