@@ -42,6 +42,8 @@
     <img width="50" align="center" src="./icons/contact.png"> Contact Me
   </h2>
 
+</div>
+
   <p>
     <img width="20" align="center" src="./icons/gmail.png">
     <a href="mailto:NarimanFallahi.ir@gmail.com">NarimanFallahi.ir@gmail.com</a>
@@ -51,31 +53,29 @@
     <img width="20" align="center" src="./icons/telegram.png">
      <a href="https://t.me/NarimanFallahi">https://t.me/NarimanFallahi</a>
   </p>
-</div>
 
 <div align="center">
   <h2>
     <img width="50" align="center" src="./icons/statistics.png"> My GitHub Statistics
   </h2>
+</div>
 
   <img src="https://github-readme-stats.vercel.app/api?username=nariman-fallahi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-</div>
 
 <div align="center">
   <h2>
     <img width="50" align="center" src="./icons/chart.png"> Longest Contribution Streaks
   </h2>
+</div>
 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Nariman-Fallahi&theme=react" alt="GitHub Streak"/>
   </a>
-</div>
 
 <div align="center">
   <h2>
     <img width="50" align="center" src="./icons/chart_2.png"> Most Used Languages
   </h2>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nariman-fallahi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
