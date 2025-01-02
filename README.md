@@ -29,7 +29,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,redis&theme=dark&perline=15)](https://skillicons.dev)
 
-<h3>Mobile technologies</h3>
+<h3>Mobile App technologies</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,&theme=dark&perline=15)](https://skillicons.dev)
 
