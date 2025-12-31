@@ -59,13 +59,9 @@
   </h2>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=nariman-fallahi&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=nariman-fallahi&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</div>
 
 <br/>
 
