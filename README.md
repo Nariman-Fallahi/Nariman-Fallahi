@@ -7,8 +7,6 @@
   <p><b>Love programming and always working to get better! 🚀</b></p>
 </div>
 
----
-
 <div align="center">
   <h2> 🛠 Skills & Technologies </h2>
 </div>
@@ -37,8 +35,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,webpack,vite,redux,markdown,linux&theme=dark&perline=15)](https://skillicons.dev)
 
----
-
 <div align="center">
   <h2>
     📩 Let's Connect
@@ -56,8 +52,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
-
----
 
 <div align="center">
   <h2>
@@ -82,5 +76,3 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nariman-fallahi&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-
----
